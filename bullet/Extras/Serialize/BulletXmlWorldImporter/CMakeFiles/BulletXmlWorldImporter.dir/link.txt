@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar cq libBulletXmlWorldImporter.a  CMakeFiles/BulletXmlWorldImporter.dir/btBulletXmlWorldImporter.o CMakeFiles/BulletXmlWorldImporter.dir/string_split.o CMakeFiles/BulletXmlWorldImporter.dir/tinyxml.o CMakeFiles/BulletXmlWorldImporter.dir/tinystr.o CMakeFiles/BulletXmlWorldImporter.dir/tinyxmlerror.o CMakeFiles/BulletXmlWorldImporter.dir/tinyxmlparser.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libBulletXmlWorldImporter.a

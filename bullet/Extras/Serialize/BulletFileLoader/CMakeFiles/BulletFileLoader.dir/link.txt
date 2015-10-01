@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar cq libBulletFileLoader.a  CMakeFiles/BulletFileLoader.dir/bChunk.o CMakeFiles/BulletFileLoader.dir/bDNA.o CMakeFiles/BulletFileLoader.dir/bFile.o CMakeFiles/BulletFileLoader.dir/btBulletFile.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libBulletFileLoader.a

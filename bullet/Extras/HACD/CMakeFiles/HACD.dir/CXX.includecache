@@ -1,0 +1,130 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdCircularList.h
+stdlib.h
+-
+hacdVersion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVersion.h
+hacdCircularList.inl
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdCircularList.inl
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdCircularList.inl
+stdlib.h
+-
+hacdVersion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVersion.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdGraph.cpp
+hacdGraph.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdGraph.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdGraph.h
+hacdVersion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVersion.h
+hacdVector.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVector.h
+hacdICHull.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdICHull.h
+map
+-
+vector
+-
+set
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdHACD.cpp
+sstream
+-
+hacdGraph.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdGraph.h
+hacdHACD.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdHACD.h
+hacdICHull.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdICHull.h
+string.h
+-
+algorithm
+-
+iterator
+-
+limits
+-
+assert.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/assert.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdHACD.h
+hacdVersion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVersion.h
+hacdVector.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVector.h
+hacdGraph.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdGraph.h
+hacdICHull.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdICHull.h
+set
+-
+vector
+-
+queue
+-
+functional
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdICHull.cpp
+hacdICHull.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdICHull.h
+limits
+-
+algorithm
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdICHull.h
+hacdVersion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVersion.h
+hacdManifoldMesh.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdManifoldMesh.h
+hacdVector.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVector.h
+vector
+-
+map
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdManifoldMesh.cpp
+hacdManifoldMesh.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdManifoldMesh.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdManifoldMesh.h
+iostream
+-
+fstream
+-
+hacdVersion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVersion.h
+hacdCircularList.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdCircularList.h
+hacdVector.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVector.h
+set
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVector.h
+math.h
+-
+iostream
+-
+hacdVersion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVersion.h
+hacdVector.inl
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVector.inl
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVector.inl
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/Extras/HACD/hacdVersion.h
+

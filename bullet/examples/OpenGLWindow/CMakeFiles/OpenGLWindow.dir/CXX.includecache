@@ -1,0 +1,504 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonCameraInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonGraphicsAppInterface.h
+Bullet3Common/b3Vector3.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/Bullet3Common/b3Vector3.h
+CommonRenderInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonRenderInterface.h
+CommonWindowInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonWindowInterface.h
+CommonCameraInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonCameraInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonRenderInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonWindowInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLInstanceRendererInternalData.h
+OpenGLInclude.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+Bullet3Common/b3AlignedObjectArray.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3AlignedObjectArray.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLInstancingRenderer.cpp
+OpenGLInclude.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+../CommonInterfaces/CommonWindowInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonWindowInterface.h
+GLInstancingRenderer.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLInstancingRenderer.h
+string.h
+-
+stdio.h
+-
+Bullet3Common/b3Vector3.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Vector3.h
+Bullet3Common/b3Quaternion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Quaternion.h
+Bullet3Common/b3Matrix3x3.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Matrix3x3.h
+LoadShader.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/LoadShader.h
+GLInstanceRendererInternalData.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLInstanceRendererInternalData.h
+Shaders/pointSpriteVS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/pointSpriteVS.h
+Shaders/pointSpritePS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/pointSpritePS.h
+Shaders/instancingVS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/instancingVS.h
+Shaders/instancingPS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/instancingPS.h
+Shaders/createShadowMapInstancingVS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/createShadowMapInstancingVS.h
+Shaders/createShadowMapInstancingPS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/createShadowMapInstancingPS.h
+Shaders/useShadowMapInstancingVS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/useShadowMapInstancingVS.h
+Shaders/useShadowMapInstancingPS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/useShadowMapInstancingPS.h
+Shaders/linesPS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/linesPS.h
+Shaders/linesVS.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/linesVS.h
+GLRenderToTexture.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLRenderToTexture.h
+stb_image_write.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/stb_image_write.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLInstancingRenderer.h
+Bullet3Common/b3AlignedObjectArray.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3AlignedObjectArray.h
+../CommonInterfaces/CommonRenderInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonRenderInterface.h
+SimpleCamera.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleCamera.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimInternalData.h
+OpenGLInclude.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimitiveRenderer.cpp
+GLPrimitiveRenderer.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimitiveRenderer.h
+GLPrimInternalData.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimInternalData.h
+LoadShader.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/LoadShader.h
+assert.h
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimitiveRenderer.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLRenderToTexture.cpp
+GLRenderToTexture.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLRenderToTexture.h
+Bullet3Common/b3Scalar.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Scalar.h
+string.h
+-
+stdio.h
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLRenderToTexture.h
+OpenGLInclude.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/LoadShader.cpp
+LoadShader.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/LoadShader.h
+OpenGLInclude.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/LoadShader.h
+OpenGLInclude.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/MacOpenGLWindow.h
+../CommonInterfaces/CommonWindowInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonWindowInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/MacOpenGLWindow.mm
+MacOpenGLWindow.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/MacOpenGLWindow.h
+Cocoa/Cocoa.h
+-
+OpenGLInclude.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+stdlib.h
+-
+stdio.h
+-
+stddef.h
+-
+string.h
+-
+string.h
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGL2Include.h
+OpenGL/OpenGL.h
+-
+OpenGL/gl.h
+-
+CustomGL/glew.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/CustomGL/glew.h
+GL/glew.h
+-
+windows.h
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+OpenGL/OpenGL.h
+-
+OpenGL/gl.h
+-
+OpenGL/gl3.h
+-
+CustomGL/glew.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/CustomGL/glew.h
+GL/glew.h
+-
+windows.h
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenSans.cpp
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/createShadowMapInstancingPS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/createShadowMapInstancingVS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/instancingPS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/instancingVS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/linesPS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/linesVS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/pointSpritePS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/pointSpriteVS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/useShadowMapInstancingPS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Shaders/useShadowMapInstancingVS.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/ShapeData.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleCamera.cpp
+SimpleCamera.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleCamera.h
+Bullet3Common/b3Vector3.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Vector3.h
+Bullet3Common/b3Quaternion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Quaternion.h
+Bullet3Common/b3Matrix3x3.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Matrix3x3.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleCamera.h
+../CommonInterfaces/CommonCameraInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonCameraInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleOpenGL2App.cpp
+SimpleOpenGL2App.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleOpenGL2App.h
+OpenGLInclude.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+Bullet3Common/b3Logging.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Logging.h
+Bullet3Common/b3Scalar.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Scalar.h
+Bullet3Common/b3AlignedObjectArray.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3AlignedObjectArray.h
+Bullet3Common/b3Vector3.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Vector3.h
+../CommonInterfaces/CommonRenderInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonRenderInterface.h
+../OpenGLWindow/GLPrimitiveRenderer.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimitiveRenderer.h
+stdlib.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/stdlib.h
+TwFonts.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/TwFonts.h
+MacOpenGLWindow.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/MacOpenGLWindow.h
+Win32OpenGLWindow.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Win32OpenGLWindow.h
+X11OpenGLWindow.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/X11OpenGLWindow.h
+stdio.h
+-
+../CommonInterfaces/CommonRenderInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonRenderInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleOpenGL2App.h
+../CommonInterfaces/CommonGraphicsAppInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonGraphicsAppInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleOpenGL2Renderer.cpp
+SimpleOpenGL2Renderer.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleOpenGL2Renderer.h
+OpenGL2Include.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGL2Include.h
+Bullet3Common/b3Vector3.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Vector3.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleOpenGL2Renderer.h
+../CommonInterfaces/CommonRenderInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonRenderInterface.h
+SimpleCamera.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleCamera.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleOpenGL3App.cpp
+SimpleOpenGL3App.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleOpenGL3App.h
+ShapeData.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/ShapeData.h
+MacOpenGLWindow.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/MacOpenGLWindow.h
+Win32OpenGLWindow.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Win32OpenGLWindow.h
+X11OpenGLWindow.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/X11OpenGLWindow.h
+stdio.h
+-
+GLPrimitiveRenderer.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimitiveRenderer.h
+GLInstancingRenderer.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLInstancingRenderer.h
+Bullet3Common/b3Vector3.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Vector3.h
+Bullet3Common/b3Logging.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Logging.h
+fontstash.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/fontstash.h
+TwFonts.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/TwFonts.h
+opengl_fontstashcallbacks.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/opengl_fontstashcallbacks.h
+assert.h
+-
+GLRenderToTexture.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLRenderToTexture.h
+Bullet3Common/b3Quaternion.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Bullet3Common/b3Quaternion.h
+stb_image_write.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/stb_image_write.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/SimpleOpenGL3App.h
+../OpenGLWindow/GLInstancingRenderer.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLInstancingRenderer.h
+../OpenGLWindow/GLPrimitiveRenderer.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimitiveRenderer.h
+../CommonInterfaces/CommonWindowInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonWindowInterface.h
+../CommonInterfaces/CommonGraphicsAppInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonGraphicsAppInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/TwFonts.cpp
+TwFonts.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/TwFonts.h
+string.h
+-
+string
+-
+assert.h
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/TwFonts.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Win32OpenGLWindow.h
+Win32Window.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Win32Window.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/Win32Window.h
+../CommonInterfaces/CommonWindowInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonWindowInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/X11OpenGLWindow.h
+../CommonInterfaces/CommonWindowInterface.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/CommonInterfaces/CommonWindowInterface.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/fontstash.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+windows.h
+-
+fontstash.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/fontstash.h
+stb_truetype.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/stb_truetype.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/fontstash.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/opengl_fontstashcallbacks.cpp
+opengl_fontstashcallbacks.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/opengl_fontstashcallbacks.h
+../OpenGLWindow/GLPrimitiveRenderer.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimitiveRenderer.h
+../OpenGLWindow/GLPrimInternalData.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/GLPrimInternalData.h
+fontstash.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/fontstash.h
+../OpenGLWindow/OpenGLInclude.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/OpenGLInclude.h
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stb_image_write.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/stb_image_write.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/opengl_fontstashcallbacks.h
+fontstash.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/fontstash.h
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/stb_image_write.h
+stdarg.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+assert.h
+-
+
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/stb_truetype.h
+stb_truetype.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/stb_truetype.h
+stdio.h
+-
+stb_truetype.h
+/Users/casey/Library/Mobile Documents/com~apple~CloudDocs/home/code/ammo.js/bullet/examples/OpenGLWindow/stb_truetype.h
+math.h
+-
+math.h
+-
+stdlib.h
+-
+assert.h
+-
+string.h
+-
+memory.h
+-
+
+examples/OpenGLWindow/../../src/Bullet3Common/b3AlignedAllocator.h
+b3Scalar.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3Scalar.h
+
+examples/OpenGLWindow/../../src/Bullet3Common/b3AlignedObjectArray.h
+b3Scalar.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3Scalar.h
+b3AlignedAllocator.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3AlignedAllocator.h
+memory.h
+-
+string.h
+-
+new
+-
+
+examples/OpenGLWindow/../../src/Bullet3Common/b3Logging.h
+
+examples/OpenGLWindow/../../src/Bullet3Common/b3Matrix3x3.h
+b3Vector3.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3Vector3.h
+b3Quaternion.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3Quaternion.h
+stdio.h
+-
+
+examples/OpenGLWindow/../../src/Bullet3Common/b3MinMax.h
+b3Scalar.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3Scalar.h
+
+examples/OpenGLWindow/../../src/Bullet3Common/b3QuadWord.h
+b3Scalar.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3Scalar.h
+b3MinMax.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3MinMax.h
+altivec.h
+-
+
+examples/OpenGLWindow/../../src/Bullet3Common/b3Quaternion.h
+b3Vector3.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3Vector3.h
+b3QuadWord.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3QuadWord.h
+
+examples/OpenGLWindow/../../src/Bullet3Common/b3Scalar.h
+math.h
+-
+stdlib.h
+-
+float.h
+-
+b3Logging.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3Logging.h
+ppcintrinsics.h
+-
+emmintrin.h
+-
+stdio.h
+-
+assert.h
+-
+assert.h
+-
+spu_printf.h
+-
+assert.h
+-
+smmintrin.h
+-
+tmmintrin.h
+-
+pmmintrin.h
+-
+emmintrin.h
+-
+arm_neon.h
+-
+assert.h
+-
+stdio.h
+-
+assert.h
+-
+arm_neon.h
+-
+
+examples/OpenGLWindow/../../src/Bullet3Common/b3Vector3.h
+b3Scalar.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3Scalar.h
+b3MinMax.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3MinMax.h
+b3AlignedAllocator.h
+examples/OpenGLWindow/../../src/Bullet3Common/b3AlignedAllocator.h
+
