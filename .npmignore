@@ -1,0 +1,11 @@
+/bullet
+/examples
+/tests
+/.gitignore
+/ammo.idl
+/AUTHORS
+/bower.json
+/bundle.py
+/make.py
+/root.h
+/test/py
