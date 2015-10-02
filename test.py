@@ -9,7 +9,7 @@ print 'Using build:', build
 
 exec(open(os.path.expanduser('~/.emscripten'), 'r').read())
 
-JS_ENGINE = SPIDERMONKEY_ENGINE
+# JS_ENGINE = NODE_JS
 #JS_ENGINE = V8_ENGINE # Note: fails stress due to floating point differences
 
 if type(JS_ENGINE) == str:
@@ -69,4 +69,3 @@ print
 print '==================================='
 print
 print 'ok.'
-
