@@ -1,9 +1,9 @@
 VERSION?=2.83.6
 
 build:
-	@curl -L -o source.tgz \
+	@curl -L -so source.tgz \
 		https://github.com/bulletphysics/bullet3/archive/$(VERSION).tar.gz
-	@tar -xzvf source.tgz
+	@tar -xzf source.tgz
 	@rm -fr source source.tgz
 	@mv bullet3-$(VERSION) source
 	@cd source && \

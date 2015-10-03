@@ -12,6 +12,8 @@ interface btVector3 {
   void setY(float y);
   void setZ(float z);
   void setValue(float x, float y, float z);
+  void normalize();
+  float dot([Ref] btVector3 v);
   [Operator="*=", Ref] btVector3 op_mul(float x);
 };
 
@@ -37,12 +39,14 @@ interface btQuadWord {
 interface btQuaternion {
   void btQuaternion(float x, float y, float z, float w);
   void setValue(float x, float y, float z, float w);
+  void normalize();
 };
 btQuaternion implements btQuadWord;
 
 interface btMatrix3x3 {
   void setEulerZYX(float ex, float ey, float ez);
   void getRotation([Ref] btQuaternion q);
+  [Value] btVector3 getRow(long y);
 };
 
 interface btTransform {
