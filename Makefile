@@ -30,4 +30,3 @@ build:
 			--post-js glue.js \
 			-o ammo.js
 	@cat ammo.js.start source/ammo.js ammo.js.end > ammo.js
-	@rm -fr source
