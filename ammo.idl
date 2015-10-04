@@ -15,6 +15,8 @@ interface btVector3 {
   void normalize();
   float dot([Ref] btVector3 v);
   [Operator="*=", Ref] btVector3 op_mul(float x);
+  [Operator="+=", Ref] btVector3 op_add([Ref] btVector3 v);
+  [Operator="-=", Ref] btVector3 op_sub([Ref] btVector3 v);
 };
 
 interface btVector4 {
@@ -446,6 +448,39 @@ interface btGeneric6DofSpringConstraint {
 };
 btGeneric6DofSpringConstraint implements btGeneric6DofConstraint;
 
+enum RotateOrder {
+	"RO_XYZ",
+	"RO_XZY",
+	"RO_YXZ",
+	"RO_YZX",
+	"RO_ZXY",
+	"RO_ZYX"
+};
+
+interface btTranslationalLimitMotor2 {
+	[Value] attribute btVector3 m_currentLinearDiff;
+};
+
+interface btRotationalLimitMotor2 {
+	attribute float m_currentPosition;
+};
+
+interface btGeneric6DofSpring2Constraint {
+  void btGeneric6DofSpring2Constraint([Ref] btRigidBody rbA, [Ref] btRigidBody rbB, [Ref] btTransform frameInA, [Ref] btTransform frameInB, RotateOrder rotOrder);
+  void btGeneric6DofSpring2Constraint([Ref] btRigidBody rbB, [Ref] btTransform frameInB, RotateOrder rotOrder);
+  void setLinearLowerLimit([Const, Ref] btVector3 linearLower);
+  void setLinearUpperLimit([Const, Ref] btVector3 linearUpper);
+  void setAngularLowerLimit([Const, Ref] btVector3 angularLower);
+  void setAngularUpperLimit([Const, Ref] btVector3 angularUpper);
+  void enableSpring(long index, boolean onOff);
+  void setStiffness(long index, float stiffness);
+  void setDamping(long index, float damping);
+  btTranslationalLimitMotor2 getTranslationalLimitMotor();
+  btRotationalLimitMotor2 getRotationalLimitMotor(long index);
+
+};
+btGeneric6DofSpring2Constraint implements btTypedConstraint;
+
 interface btSequentialImpulseConstraintSolver {
   void btSequentialImpulseConstraintSolver();
 };
@@ -512,6 +547,7 @@ interface btCollisionWorld {
   [Const] btBroadphaseInterface getBroadphase ();
   void convexSweepTest([Const] btConvexShape castShape, [Const, Ref] btTransform from, [Const, Ref] btTransform to, [Ref] ConvexResultCallback resultCallback, float allowedCcdPenetration);
   void contactPairTest([Const] btCollisionObject colObjA, [Const] btCollisionObject colObjB, [Ref] ContactResultCallback resultCallback);
+  void contactTest([Const] btCollisionObject colObj, [Ref] ContactResultCallback resultCallback);
 };
 
 interface btContactSolverInfo {
