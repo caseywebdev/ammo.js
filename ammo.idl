@@ -601,6 +601,7 @@ btDefaultVehicleRaycaster implements btVehicleRaycaster;
 interface btWheelInfo {
   attribute float m_suspensionStiffness;
   attribute float m_frictionSlip;
+  attribute float m_engineForce;
   attribute float m_rollInfluence;
   attribute float m_suspensionRestLength1;
   attribute float m_wheelsRadius;
