@@ -598,6 +598,18 @@ interface btDefaultVehicleRaycaster {
 };
 btDefaultVehicleRaycaster implements btVehicleRaycaster;
 
+[Prefix="btWheelInfo::"]
+interface RaycastInfo {
+  [Value] attribute btVector3 m_contactNormalWS;
+  [Value] attribute btVector3 m_contactPointWS;
+  attribute float m_suspensionLength;
+  [Value] attribute btVector3 m_hardPointWS;
+  [Value] attribute btVector3 m_wheelDirectionWS;
+  [Value] attribute btVector3 m_wheelAxleWS;
+  attribute boolean m_isInContact;
+  attribute any m_groundObject;
+};
+
 interface btWheelInfo {
   attribute float m_suspensionStiffness;
   attribute float m_frictionSlip;
@@ -612,6 +624,7 @@ interface btWheelInfo {
   attribute float m_maxSuspensionTravelCm;
   attribute float m_wheelsSuspensionForce;
   attribute boolean m_bIsFrontWheel;
+  [Value] attribute RaycastInfo m_raycastInfo;
   [Value] attribute btVector3 m_chassisConnectionPointCS;
 };
 
